@@ -1,6 +1,5 @@
-VAUXEL Paul
-SOULAGE Tom
+(2017) One of my first dev project in Pascal :') This is the qwirkle game ! 
 
 Commande de compilation : fpc QwirkleJeu.pas
 
-Commande d'éxécution : ./QwirkleJeu
+Commande d'Ã©xÃ©cution : ./QwirkleJeu
